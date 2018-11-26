@@ -1,0 +1,58 @@
+#addNewProduct{
+    width: 300px;
+    height: 30px;
+    position: absolute;
+    left: 10px;
+    top:  30px;
+
+}
+#addBtn{
+    height: 35px;
+    width: 60px;
+    background-color: #42f45c;
+    color: aliceblue;
+    position: absolute;
+    top:  30px;
+    left: 315px;
+
+}
+form{
+    width: 400px;
+    height: 100px;
+    background-color: #e0ddd7;
+    position: relative;
+}
+#productList{
+    position: relative;
+    width: 600px;
+ }
+.row{
+    width:600px;
+    height:50px;
+
+}
+.btnEdit{
+   left: 300px;
+    width: 60px;
+    background-color: #42f45c;
+    color: aliceblue;
+    height: 35px;
+
+
+}
+.btnDelete{
+    left: 450px;
+    width: 90px;
+    background-color: #42f45c;
+    color: aliceblue;
+    height: 35px;
+}
+.col1{
+    width: 600px;
+}
+#numberOf{
+    left: 600px;
+    color: darkred;
+
+}
+tr:nth-child(odd) {background-color: #e0ddd7;}
